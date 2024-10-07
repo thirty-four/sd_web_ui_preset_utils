@@ -148,7 +148,7 @@
     },
     "igor": {
         "Sampling method": "Euler a",
-        "Prompt": "igor,1boy,male focus,solo,facial hair,beard,white hair,multicolored hair,mature male,bara,looking at viewer,short hair,pale-green neckerchief,sleeve rolled-up,blue eyes, abs,muscular,large pectorals,scar,hairy,suspenders,gloves,huge penis,gigantic penis,half_erect,nsfw,rating_explicit,score_9,score_8_up,score_7_up,score_6_up,white background,<lora:Dizdoodz_v1:0.4><lora:igor:0.5><lora:mingfeng:0.3> <lora:redsaka:0.3>",
+        "Prompt": "igor,1boy,male focus,solo,facial hair,beard,white hair,multicolored hair,mature male,bara,looking at viewer,short hair,pale-green neckerchief,sleeve rolled-up,blue eyes, abs,muscular,large pectorals,scar,hairy,suspenders,gloves,huge penis,gigantic penis,half_erect,nsfw,rating_explicit,score_9,score_8_up,score_7_up,score_6_up,white background,<lora:Dizdoodz_v1:0.4><lora:igor:0.6><lora:mingfeng:0.3> <lora:redsaka:0.3>",
         "Negative prompt": "negativeXL_D, NEGATIVE_HANDS, (score_4, score_3, score_2),sketch,unfinished,text,blurry,watermark,",
         "Sampling steps": 30,
         "Width": 832,
