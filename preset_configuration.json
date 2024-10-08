@@ -148,16 +148,16 @@
     },
     "igor": {
         "Sampling method": "Euler a",
-        "Prompt": "igor,1boy,male focus,solo,facial hair,beard,mature male,bara,white hair,multicolored hair,short hair,looking at viewer,pale-green neckerchief,sleeve rolled-up,blue eyes,wolf ears,earrings,suspenders,gloves, abs,muscular,large pectorals,scar,hairy,huge penis,gigantic penis,half_erect, cumdrip, dynamic pose,rating_explicit, perspective, score_9,score_8_up,score_7_up,score_6_up,score_5_up,white background,<lora:igor:0.7> <lora:fumiosf01:0.3> <lora:reiXLAutClokrV43P1:0.3> <lora:dizdoodz001:0.3>  <lora:amo:0.3> <lora:naipf:0.2>",
-        "Negative prompt": "negativeXL_D, NEGATIVE_HANDS, (score_4, score_3, score_2), source_furry,text, blurry, watermark, lowres, missing, unfinished, displeasing, signature, extra digits, username, scan, abstract, greyscale, female,girl,{blush},closed eyes,animal,furry,tail,missing leg,oiled skin, shiny skin, realistic",
+        "Prompt": "igor,1boy,male focus,solo,facial hair,beard,mature male,bara,white hair with dark-grey hair,short hair,old,looking at viewer,neckerchief,sleeve rolled-up,wolf ears,earrings,suspenders,gloves, abs,muscular,large pectorals,scar,hairy,huge penis,gigantic penis,half_erect, cumdrip, dynamic pose,rating_explicit, perspective, score_9,score_8_up,score_7_up,score_6_up,score_5_up,white background,<lora:igor:0.75> <lora:fumiosf01:0.5> <lora:reiXLAutClokrV43P1:0.3>  <lora:mingfeng:0.2> <lora:amo:0.2> <lora:dizdoodz001:0.4>",
+        "Negative prompt": "negativeXL_D, NEGATIVE_HANDS, (score_4, score_3, score_2), source_furry, text, blurry, watermark, lowres, unfinished, displeasing, signature, extra digits, username, greyscale, female,girl,{blush},closed eyes,animal,furry,tail,oiled skin,shiny skin ",
         "Sampling steps": 30,
         "Width": 768,
         "Height": 960,
         "Hires. fix": true,
         "Upscaler": "4x-UltraSharp",
         "Upscale by": 1.5,
-        "Hires steps": 24,
-        "Denoising strength": 0.15,
+        "Hires steps": 12,
+        "Denoising strength": 0.2,
         "CFG Scale": 7
     }
 }
