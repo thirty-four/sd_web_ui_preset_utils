@@ -156,7 +156,7 @@
         "Hires. fix": true,
         "Upscaler": "4x-UltraSharp",
         "Upscale by": 1.5,
-        "Hires steps": 12,
+        "Hires steps": 20,
         "Denoising strength": 0.2,
         "CFG Scale": 7
     }
