@@ -148,8 +148,8 @@
     },
     "igor": {
         "Sampling method": "Euler a",
-        "Prompt": "igor,1boy,male focus,solo,facial hair,beard,mature male,bara,white hair with dark-grey hair,short hair,old,looking at viewer,neckerchief,sleeve rolled-up,wolf ears,earrings,suspenders,gloves, abs,muscular,large pectorals,scar,hairy,huge penis,gigantic penis,half_erect, cumdrip, dynamic pose,rating_explicit, perspective, score_9,score_8_up,score_7_up,score_6_up,score_5_up,white background,<lora:igor:0.75> <lora:fumiosf01:0.5> <lora:reiXLAutClokrV43P1:0.3>  <lora:mingfeng:0.2> <lora:amo:0.2> <lora:dizdoodz001:0.4>",
-        "Negative prompt": "negativeXL_D, NEGATIVE_HANDS, (score_4, score_3, score_2), source_furry, text, blurry, watermark, lowres, unfinished, displeasing, signature, extra digits, username, greyscale, female,girl,{blush},closed eyes,animal,furry,tail,oiled skin,shiny skin ",
+        "Prompt": "igor,1boy,male focus,solo,beard,mature male,white hair with dark-grey hair,short hair,looking at viewer,neckerchief,sleeve rolled-up,wolf ears,earrings,suspenders,gloves, abs,muscular,large pectorals,scar,hairy,huge penis,gigantic penis,half_erect, cumdrip, rating_explicit, dynamic pose,tied up, perspective, blue eyes, score_9,score_8_up,score_7_up,white background,arms up,armpits hair,chains,close-up,<lora:igor:0.75> <lora:fumiosf01:0.4> <lora:dizdoodz001:0.4> <lora:amo12:0.2> <lora:mingfeng:0.3> <lora:naipf:0.2> <lora:reiXL_AutC_lokr_V43P1:0.2> ",
+        "Negative prompt": " furry, shiny skin, oiled skin,NEGATIVE_HANDS, score_3, score_4, score_5, source_anime, source_furry, lowres, logo, watermark, blush, rating_safe",
         "Sampling steps": 30,
         "Width": 768,
         "Height": 960,
