@@ -37,8 +37,8 @@
         "Hires. fix": true,
         "Upscaler": "4x-UltraSharp",
         "Upscale by": 1.6,
-        "Hires steps": 9,
-        "Denoising strength": 0.15,
+        "Hires steps": 10,
+        "Denoising strength": 0.2,
         "CFG Scale": 7
     },
     "bath igor turbo": {
