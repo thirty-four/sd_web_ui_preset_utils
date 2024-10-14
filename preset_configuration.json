@@ -15,19 +15,19 @@
     },
      "bath igor": {
         "Sampling method": "Euler a",
-        "Prompt": "igor, 1man, (score_9,score_8_up,score_7_up), 1boy, male focus, solo, beard,mature male, facial hair,white hair with dark-grey hair,short hair,looking at viewer,abs,muscular,scar,hairy,(huge penis,gigantic penis,large pectorals),puffy nipples,half_erect, cumdrip, blue eyes, close-up, dynamic pose, perspective,wolf ears,earrings,moon necklace,showering,diamond ring,hands_above_head,wet,naked towel on shoulder,armpit hair,from above,bubble,dick piercing,hot water,shower head above behind head,reflective_floor,bathing,bathroom,bath,wall,indoors, (best quality, absurdres, highres), <lora:igor:0.75> <lora:fumiosf01:0.4> <lora:dizdoodz001:0.4> <lora:amo:0.2> <lora:mingfeng:0.3> <lora:naipf:0.5>",
-        "Negative prompt": "score_3, score_4, score_5, source_furry, furry, low quality, worst quality, shiny skin, lowres, blurry, logo, watermark, blush, rating_safe, eyeliner, girly, bad anatomy, tail, wolf tail, bad, error, sketch, unfinished, displeasing, feminine, NEGATIVE_HANDS, extra digits, fewer digits, ugly, young, child,teenage, ",
+        "Prompt": "igor, (score_9,score_8_up,score_7_up,best quality, absurdres, highres),1man, male focus, solo, beard,mature male, facial hair, white hair with dark-grey hair,short hair, looking at viewer, blue eyes, abs,manly,muscular, scar, hairy,{huge penis,gigantic penis,large pectorals, puffy nipples, erection}, cumdrip, neckerchief, wolf ears,urethral insertion,earrings,moon necklace, diamond ring, towel on shoulder,close-up, dynamic pose, perspective, showering, bath, wet, armpit hair, bubble,hot water,reflective_floor,bathing, bathroom, wall, indoors,<lora:igor:0.8> <lora:fumiosf01:0.4> <lora:amo:0.2>   <lora:PowerLesSsong_Style_PonySDXL:0.3> <lora:Shiny_Skin_Pony:-0.4> <lora:linkatto:0.2> <lora:dizdoodz001:0.4> <lora:naipf:0.3> <lora:umikochannartv2:0.2> <lora:reiXLAutClokrV43P1:0.3>",
+        "Negative prompt": "furry, shiny skin, (score_3, score_4, score_5), source_furry, source_cartoon,  lowres, blurry, logo, watermark, blush, rating_safe, eyeliner, bad anatomy, tail, wolf tail, sketch, unfinished, displeasing, feminine, NEGATIVE_HANDS, extra digits, fewer digits, young, child, teenager,",
         "Sampling steps": 30,
         "Width": 768,
         "Height": 1080,
         "Hires. fix": true,
         "Upscaler": "4x-UltraSharp",
         "Upscale by": 1.7,
-        "Hires steps": 16,
+        "Hires steps": 9,
         "Denoising strength": 0.15,
         "CFG Scale": 7
     },
-    "bath igor_3": {
+    "bath igor_2": {
         "Sampling method": "Euler a",
         "Prompt": "igor, (score_9,score_8_up,score_7_up,best quality, absurdres, highres),1man, male focus, solo, beard,mature male, facial hair, white hair with dark-grey hair,short hair, looking at viewer, blue eyes, abs,manly,muscular, scar, hairy,{huge penis,gigantic penis,large pectorals, puffy nipples, erection}, cumdrip, neckerchief, wolf ears,urethral insertion,earrings,moon necklace, diamond ring, towel on shoulder,close-up, dynamic pose, perspective, showering, bath, wet, armpit hair, bubble,hot water,reflective_floor,bathing, bathroom, wall, indoors,<lora:igor:0.8> <lora:fumiosf01:0.4> <lora:amo:0.2>   <lora:PowerLesSsong_Style_PonySDXL:0.3> <lora:Shiny_Skin_Pony:-0.4> <lora:linkatto:0.2> <lora:dizdoodz001:0.4> <lora:naipf:0.3> <lora:umikochannartv2:0.4> <lora:reiXLAutClokrV43P1:0.3>",
         "Negative prompt": "furry, shiny skin, (score_3, score_4, score_5), source_furry, source_cartoon,  lowres, blurry, logo, watermark, blush, rating_safe, eyeliner, bad anatomy, tail, wolf tail, sketch, unfinished, displeasing, feminine, NEGATIVE_HANDS, extra digits, fewer digits, young, child, teenager,",
