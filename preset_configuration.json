@@ -30,7 +30,7 @@
       "gigantic penis igor": {
         "Sampling method": "Euler a",
         "Prompt": "igor,1boy,man,bara,solo,beard,facial hair,mature male,white hair with dark-grey hair,short hair,blue eyes,looking at viewer,neckerchief,sleeve rolled-up,wolf ears,earrings,suspenders,gloves, light smile,bathing,bathroom,abs,muscular,scar,hairy,huge penis,gigantic penis,puffy nipples,large pectorals,half_erect,leg belt, cumdrip, dynamic pose, perspective, close-up,black sunglasses, (score_9,score_8_up,score_7_up),rating_explicit, highres, nsfw, asian, <lora:igor:0.8> <lora:dizdoodz001:0.3> <lora:mingfeng:0.2> <lora:naipf:0.5> <lora:tes_03:0.5> <lora:fumiosf01:0.4> <lora:penis_size_slider:-1> <lora:linkatto:0.2> <lora:rokudenashi01c:0.2>  <lora:ZoroJ:0.3> <lora:redgart:0.3>",
-        "Negative prompt": "(shiny skin, oiled skin),score_3, score_4, score_5, source_furry, furry, low quality, worst quality, shiny skin, lowres, blurry, logo, watermark, rating_safe, eyeliner, girly, bad anatomy, tail,  bad, error, sketch, unfinished, displeasing, 1girl, feminine, NEGATIVE_HANDS, extra digits, fewer digits, ugly, young, child, animal tail, signature, artist name, woman,teenage",
+        "Negative prompt": "furry, shiny skin, oiled skin,((NEGATIVE_HANDS)), score_3, score_4, score_5,  source_furry, lowres, logo, watermark, blush, rating_safe,eyeliner,girly, makeup, bad hands,signature",
         "Sampling steps": 24,
         "Width": 768,
         "Height": 1080,
