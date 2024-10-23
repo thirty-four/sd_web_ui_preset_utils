@@ -29,16 +29,16 @@
     },
       "gigantic penis igor": {
         "Sampling method": "Euler a",
-        "Prompt": "igor,1boy,man,bara,solo,beard,facial hair,mature male,white hair with dark-grey hair,short hair,blue eyes,looking at viewer,neckerchief,sleeve rolled-up,wolf ears,earrings,suspenders,gloves, light smile,bathing,bathroom,abs,muscular,scar,hairy,huge penis,gigantic penis,puffy nipples,large pectorals,half_erect,leg belt, cumdrip, dynamic pose, perspective, close-up,black sunglasses, (score_9,score_8_up,score_7_up),rating_explicit, highres, nsfw, asian, <lora:igor:0.8> <lora:dizdoodz001:0.3> <lora:mingfeng:0.2> <lora:naipf:0.5> <lora:tes_03:0.5> <lora:fumiosf01:0.4> <lora:penis_size_slider:-1> <lora:linkatto:0.2> <lora:rokudenashi01c:0.2>  <lora:ZoroJ:0.3> <lora:redgart:0.3>",
-        "Negative prompt": "furry, shiny skin, oiled skin,((NEGATIVE_HANDS)), score_3, score_4, score_5,  source_furry, lowres, logo, watermark, blush, rating_safe,eyeliner,girly, makeup, bad hands,signature",
-        "Sampling steps": 24,
+        "Prompt": "1boy, bara, solo, facial hair,beard,mature male,white hair with dark-grey hair,short hair,blue eyes,looking at viewer,neckerchief,sleeve rolled-up,wolf ears,earrings,suspenders,gloves, light smile,bathing,bathroom,abs,muscular,scar,hairy,huge penis,gigantic penis,puffy nipples,large pectorals,half_erect,leg belt, cumdrip, dynamic pose, perspective, close-up, from above,thong,(score_9,score_8_up,score_7_up), rating_explicit, highres, nsfw, <lora:igor:0.8> <lora:mingfeng:0.2> <lora:naipf:0.45>  <lora:fumiosf01:0.4> <lora:penis_size_slider:-1.5>  <lora:Viosgit_style:0.4> <lora:PowerLesSsong_Style_PonySDXL:0.3> <lora:tes_03:-0.3>  <lora:ZoroJ:0.4> <lora:amo:0.4> <lora:dizdoodz001:0.5>",
+        "Negative prompt": "furry, (shiny skin, oiled skin), score_3, score_4, score_5, source_furry, lowres, logo, watermark, blush, rating_safe,eyeliner,girly, makeup, bad hands,signature,chromatic aberration,greyscale,",
+        "Sampling steps": 30,
         "Width": 768,
         "Height": 1080,
         "Hires. fix": true,
         "Upscaler": "4x-UltraSharp",
         "Upscale by": 1.6,
         "Hires steps": 10,
-        "Denoising strength": 0.2,
+        "Denoising strength": 0.15,
         "CFG Scale": 7
     },
     "bath igor turbo": {
